@@ -1,1 +1,3 @@
-num=100 
+num=100
+
+zhangsan=250
